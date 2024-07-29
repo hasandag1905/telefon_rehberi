@@ -1,0 +1,14 @@
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\bin\Debug\net8.0\telefon_rehberi.exe
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\bin\Debug\net8.0\telefon_rehberi.deps.json
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\bin\Debug\net8.0\telefon_rehberi.runtimeconfig.json
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\bin\Debug\net8.0\telefon_rehberi.dll
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\bin\Debug\net8.0\telefon_rehberi.pdb
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\telefon_rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\telefon_rehberi.AssemblyInfoInputs.cache
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\telefon_rehberi.AssemblyInfo.cs
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\telefon_rehberi.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\telefon_rehberi.dll
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\refint\telefon_rehberi.dll
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\telefon_rehberi.pdb
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\telefon_rehberi.genruntimeconfig.cache
+C:\Users\Hasan\Documents\vscodes\telefon_rehberi\obj\Debug\net8.0\ref\telefon_rehberi.dll
